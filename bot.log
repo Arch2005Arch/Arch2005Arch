@@ -1,0 +1,44 @@
+[2025-07-30 10:02:25,995] INFO - Start polling
+[2025-07-30 10:02:26,245] INFO - Run polling for bot @carro_pogoda_bot id=6567977114 - 'pogoda'
+[2025-07-30 10:03:05,181] INFO - Polling stopped
+[2025-07-30 10:03:05,925] ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+[2025-07-30 10:03:05,925] WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 6567977114)
+[2025-07-30 10:03:06,189] INFO - Polling stopped for bot @carro_pogoda_bot id=6567977114 - 'pogoda'
+[2025-07-30 10:04:13,964] INFO - Бот запущен
+[2025-07-30 10:04:14,892] INFO - Start polling
+[2025-07-30 10:04:14,957] INFO - Run polling for bot @carro_pogoda_bot id=6567977114 - 'pogoda'
+[2025-07-30 10:04:29,363] INFO - Update id=818373810 is handled. Duration 766 ms by bot id=6567977114
+[2025-07-30 10:04:39,623] INFO - Update id=818373811 is handled. Duration 140 ms by bot id=6567977114
+[2025-07-30 10:04:50,699] INFO - Polling stopped
+[2025-07-30 10:04:50,811] ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+[2025-07-30 10:04:50,811] WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 6567977114)
+[2025-07-30 10:04:51,071] INFO - Polling stopped for bot @carro_pogoda_bot id=6567977114 - 'pogoda'
+[2025-07-30 10:05:59,813] INFO - Бот запущен
+[2025-07-30 10:06:00,843] INFO - Start polling
+[2025-07-30 10:06:00,999] INFO - Run polling for bot @carro_pogoda_bot id=6567977114 - 'pogoda'
+[2025-07-30 10:06:11,405] INFO - Update id=818373812 is handled. Duration 875 ms by bot id=6567977114
+[2025-07-30 10:06:26,777] INFO - Update id=818373813 is handled. Duration 655 ms by bot id=6567977114
+[2025-07-30 10:06:30,307] INFO - Polling stopped
+[2025-07-30 10:06:31,013] ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+[2025-07-30 10:06:31,014] WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 6567977114)
+[2025-07-30 10:06:31,275] INFO - Polling stopped for bot @carro_pogoda_bot id=6567977114 - 'pogoda'
+[2025-07-30 10:07:32,679] INFO - Бот запущен
+[2025-07-30 10:07:33,900] INFO - Start polling
+[2025-07-30 10:07:34,303] INFO - Run polling for bot @carro_pogoda_bot id=6567977114 - 'pogoda'
+[2025-07-30 10:07:35,932] INFO - Update id=818373814 is handled. Duration 1233 ms by bot id=6567977114
+[2025-07-30 10:07:51,811] INFO - Update id=818373815 is handled. Duration 500 ms by bot id=6567977114
+[2025-07-30 10:08:17,065] INFO - Polling stopped
+[2025-07-30 10:08:17,270] ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+[2025-07-30 10:08:17,270] WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 6567977114)
+[2025-07-30 10:08:17,535] INFO - Polling stopped for bot @carro_pogoda_bot id=6567977114 - 'pogoda'
+[2025-07-30 10:08:20,770] INFO - Бот запущен
+[2025-07-30 10:08:23,008] INFO - Start polling
+[2025-07-30 10:08:23,457] INFO - Run polling for bot @carro_pogoda_bot id=6567977114 - 'pogoda'
+[2025-07-30 10:08:24,952] INFO - Update id=818373816 is handled. Duration 1297 ms by bot id=6567977114
+[2025-07-30 10:08:29,524] INFO - Update id=818373817 is handled. Duration 125 ms by bot id=6567977114
+[2025-07-30 10:09:24,461] INFO - Polling stopped
+[2025-07-30 10:09:25,535] ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+[2025-07-30 10:09:25,536] WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 6567977114)
+[2025-07-30 10:09:25,789] INFO - Polling stopped for bot @carro_pogoda_bot id=6567977114 - 'pogoda'
+[2025-07-30 10:09:29,817] INFO - Р‘РѕС‚ Р·Р°РїСѓС‰РµРЅ
+[2025-07-30 10:09:29,818] DEBUG - РћС‚Р»Р°РґРѕС‡РЅР°СЏ РёРЅС„РѕСЂРјР°С†РёСЏ
